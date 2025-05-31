@@ -75,6 +75,25 @@
     },
     {
       "chainId": 101,
+      "address": "DqC5us1tGVqHYpwstCASyUtX6God77Md6Gu1STQMV1tC",
+      "symbol": "DICE",
+      "name": "DiceCoin",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/TblxZpwSFSzp62LX_ULvTMTUsVXdGncVHJJYp50zTd8",
+      "tags": [
+        "utility",
+        "gaming",
+        "dice"
+      ],
+      "extensions": {
+        "website": "https://vietnamai.github.io/DiceCoin/",
+        "description": "DiceCoin (DICE) is a special utility token designed for use in our multi-platform dice game. It can be used for betting, rewards, and in-game purchases, as well as traded on major exchanges.",
+        "twitter": "https://twitter.com/DiceCoinOfficial",
+        "whitepaper": "https://vietnamai.github.io/DiceCoin/whitepaper.pdf"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "NGK3iHqqQkyRZUj4uhJDQqEyKKcZ7mdawWpqwMffM3s",
       "symbol": "YAKU",
       "name": "Yaku",
